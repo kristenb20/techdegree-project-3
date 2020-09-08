@@ -205,6 +205,11 @@ footer {
     margin: 0 auto;
   }
 
+ .zip-label {
+	 margin-left: 0px;
+	 margin-right: 0px;
+ }
+
 	#zip {
 		max-width: 25%;
 	}
